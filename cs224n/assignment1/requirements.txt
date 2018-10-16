@@ -1,0 +1,4 @@
+matplotlib==2
+scipy
+numpy
+sklearn
